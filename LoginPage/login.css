@@ -1,0 +1,33 @@
+﻿body {
+    background-image: url('background.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 300px;
+    margin-top: 7em;
+    padding: 2em;
+    text-align:center
+}
+
+img {
+    width: 80px;
+    border-radius: 20cm;
+}
+
+input {
+    margin: 10px;
+    background-color: lightgray;
+    border: none;
+    border-radius: 1cm
+}
+
+#Entra, #Logout {
+    background-color: #334d5d;
+    color: lightgray;
+    border: none;
+    padding: 0.2em 1.5em;
+}
